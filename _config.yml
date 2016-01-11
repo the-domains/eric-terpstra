@@ -1,0 +1,28 @@
+name: Eric Terpstra
+favicon: null
+layout_spectrum: 0.72383609903045
+typography_spectrum: 0.6337852675933391
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.15054139168933034
+  lightness: 0.7740175873041153
+  saturation: 0.6607092276681215
+  rhythmicContrast: 0.28862786921672523
+purpose: []
